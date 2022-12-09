@@ -1,0 +1,7 @@
+C:\Users\IceBear\Desktop\ASPNETCOREWEBAPI-NET 6\CrudAPI\CrudAPI\obj\Debug\net6.0\ContactsAPI.csproj.AssemblyReference.cache
+C:\Users\IceBear\Desktop\ASPNETCOREWEBAPI-NET 6\CrudAPI\CrudAPI\obj\Debug\net6.0\ContactsAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IceBear\Desktop\ASPNETCOREWEBAPI-NET 6\CrudAPI\CrudAPI\obj\Debug\net6.0\ContactsAPI.AssemblyInfoInputs.cache
+C:\Users\IceBear\Desktop\ASPNETCOREWEBAPI-NET 6\CrudAPI\CrudAPI\obj\Debug\net6.0\ContactsAPI.AssemblyInfo.cs
+C:\Users\IceBear\Desktop\ASPNETCOREWEBAPI-NET 6\CrudAPI\CrudAPI\obj\Debug\net6.0\ContactsAPI.csproj.CoreCompileInputs.cache
+C:\Users\IceBear\Desktop\ASPNETCOREWEBAPI-NET 6\CrudAPI\CrudAPI\obj\Debug\net6.0\ContactsAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\IceBear\Desktop\ASPNETCOREWEBAPI-NET 6\CrudAPI\CrudAPI\obj\Debug\net6.0\ContactsAPI.MvcApplicationPartsAssemblyInfo.cache
